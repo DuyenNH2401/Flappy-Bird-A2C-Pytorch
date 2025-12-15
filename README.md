@@ -6,8 +6,7 @@ This repository contains a reinforcement learning (RL) implementation of the cla
 ## Installation
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd RL/Project
+git clone https://github.com/DuyenNH2401/Flappy-Bird-A2C-Pytorch.git
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
@@ -55,3 +54,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
